@@ -1,0 +1,134 @@
+a:hover {
+  text-decoration: none; }
+
+.navbar-default .navbar-nav > .active > a, .navbar-default .navbar-nav > .active > a:focus, .navbar-default .navbar-nav > .active > a:hover {
+  color: #fff;
+  background-color: #055f82;
+  border-radius: 4px; }
+
+header .navbar-default {
+  background-color: #017aa7;
+  border: none;
+  margin-bottom: 0;
+  border-radius: 0; }
+  header .navbar-default .navbar-header .navbar-brand {
+    height: auto; }
+  header .navbar-default .navbar-collapse .navbar-nav {
+    padding: 22px; }
+    header .navbar-default .navbar-collapse .navbar-nav li a {
+      color: #fff; }
+  header .navbar-default .navbar-collapse form.navbar-form {
+    padding: 22px; }
+    header .navbar-default .navbar-collapse form.navbar-form a {
+      color: #2babe2;
+      margin-right: 15px; }
+header .sub-nav {
+  background-color: #4e4e4e; }
+  header .sub-nav ul.subnav-left {
+    margin-bottom: 0; }
+    header .sub-nav ul.subnav-left li a {
+      color: #fff;
+      font-weight: bold;
+      padding: 15px 20px;
+      display: block; }
+      header .sub-nav ul.subnav-left li a i {
+        font-size: 20px; }
+    header .sub-nav ul.subnav-left li a.active {
+      background-color: #777777; }
+  header .sub-nav ul.subnav-right {
+    margin-bottom: 0;
+    vertical-align: middle;
+    top: 50%;
+    transform: translateY(50%); }
+    header .sub-nav ul.subnav-right li a i {
+      color: #fff;
+      padding: 0 15px;
+      font-size: 22px; }
+
+.ads-content {
+  background-color: #143642; }
+  .ads-content .first-ad, .ads-content .second-ad, .ads-content .third-ad {
+    background-color: #017aa7;
+    color: #fff;
+    padding: 8px;
+    margin: 15px 0;
+    border-radius: 4px; }
+    .ads-content .first-ad h3, .ads-content .second-ad h3, .ads-content .third-ad h3 {
+      margin: 0; }
+    .ads-content .first-ad p, .ads-content .second-ad p, .ads-content .third-ad p {
+      margin: 0; }
+    .ads-content .first-ad .btn-orange, .ads-content .second-ad .btn-orange, .ads-content .third-ad .btn-orange {
+      position: relative;
+      top: 50%;
+      transform: translateY(44%);
+      width: 100%; }
+  .ads-content .third-ad {
+    background-color: #4e4e4e; }
+    .ads-content .third-ad p {
+      color: #ff6b35; }
+
+.btn-orange {
+  background-color: #ff6b35;
+  color: #fff;
+  font-size: 16px; }
+
+.tabs-lobby {
+  background-color: #4e4e4e;
+  padding: 5px 0 20px; }
+  .tabs-lobby .nav-tabs {
+    background-color: #eeeeee;
+    border: 0; }
+    .tabs-lobby .nav-tabs li {
+      margin-bottom: 0;
+      width: 10%; }
+      .tabs-lobby .nav-tabs li a {
+        text-align: center;
+        font-weight: bold;
+        padding-top: 5px;
+        color: #333333;
+        border: none; }
+        .tabs-lobby .nav-tabs li a i {
+          display: block;
+          font-size: 18px;
+          margin-top: 5px; }
+        .tabs-lobby .nav-tabs li a:hover {
+          background-color: #dfdfdf;
+          border-radius: 0;
+          border: 0;
+          border-bottom: 5px solid #bdbdbd; }
+    .tabs-lobby .nav-tabs li.active > a {
+      border-radius: 0;
+      border: 0;
+      border-bottom: 5px solid #ff6b35; }
+  .tabs-lobby .tab-content table {
+    background-color: #fff; }
+    .tabs-lobby .tab-content table thead th {
+      text-transform: uppercase;
+      color: #2d2d2d; }
+    .tabs-lobby .tab-content table p {
+      margin-bottom: 0; }
+    .tabs-lobby .tab-content table td {
+      vertical-align: middle; }
+      .tabs-lobby .tab-content table td button.btn-success {
+        width: 100%; }
+    .tabs-lobby .tab-content table td.entities.in > i {
+      color: #449d44; }
+  .tabs-lobby #sidebar.next-contest-starts-time {
+    color: #fff; }
+    .tabs-lobby #sidebar.next-contest-starts-time .timer-start {
+      margin-right: 15%;
+      text-align: right; }
+      .tabs-lobby #sidebar.next-contest-starts-time .timer-start h4 {
+        margin-bottom: 0; }
+      .tabs-lobby #sidebar.next-contest-starts-time .timer-start h3 {
+        margin-top: 0; }
+
+footer {
+  background-color: #191919;
+  padding: 30px 0px; }
+  footer .footer-list {
+    margin: 30px 0; }
+    footer .footer-list li a {
+      color: #727272; }
+
+/*# sourceMappingURL=style.css.map */
